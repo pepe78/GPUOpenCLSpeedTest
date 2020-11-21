@@ -1,5 +1,7 @@
 # GPUOpenCLSpeedTest
 
+### Comparison of single threaded CPU execution vs GPU execution (speed up of newton's algorithm)
+
 from terminal execute: ./run.sh
 
 Output:
