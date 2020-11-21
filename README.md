@@ -52,4 +52,4 @@ Speedup: 4204.213465x
 5.009953 5.009953
 
 
-Considering GPU freq is 1.7 GHz and CPU freq is 3.8 Ghz, speedup is 4204.213465 * 3.8 / 1.7 ~ 9397.65 (and I have 10496 gpu cores -> meaning getting almost there).
+Considering GPU freq is 1.7 GHz and CPU freq is 3.8 Ghz, relative speedup is 4204.213465 * 3.8 / 1.7 ~ 9397.65 (and I have 10496 gpu cores -> meaning getting almost there to achieve 100% usage of all cores).
