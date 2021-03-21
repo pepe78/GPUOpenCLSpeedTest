@@ -53,3 +53,5 @@ Speedup: 4204.213465x
 
 
 Considering GPU freq is 1.7 GHz and CPU freq is 3.8 Ghz, relative speedup is 4204.213465 * 3.8 / 1.7 ~ 9397.65 (and I have [10496 gpu cores](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090/) -> meaning getting almost there to achieve 100% usage of all cores - of course there is some overhead, hence lower number).
+
+To install OpenCL: 'sudo apt install ocl-icd-opencl-dev'
